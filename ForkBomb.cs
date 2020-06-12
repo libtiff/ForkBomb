@@ -14,8 +14,7 @@ namespace ForkBomb
         {
                 System.Console.WriteLine(@"
                                     ========================================
-                                      Fork Bomb - Operating Systems Course
-                                                AntonyGeorgiades
+                                      Fork Bomb      -      AntonyGeorgiades
                                     ========================================
                                          |||| 
                                          ||||
